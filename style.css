@@ -1,0 +1,25 @@
+#home hr{
+    width: 80%;
+}
+#home h2 ,#home p{
+    color: rgb(170, 170, 170);
+}
+#home .book{
+    background-color: rgb(238, 238, 238);
+
+}
+.btn:hover{
+    box-shadow: 2px 5px #aca8a8;
+}
+#Table{
+    background-color: rgb(238, 238, 238);   
+}
+#Table td{
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+.display{
+    padding: 5px !important;
+    margin-top: 10px;
+    display: none;
+}
